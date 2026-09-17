@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "patchName": "SAFE Patch",
+  "fileName": "game_patch.pak",
+  "fileNameUpdate": "SAFE Updated Patch v1.0",
+  "downloadURL": "https://example.com/SAFE.pak",
+  "targetBundleID": "com.pubg.imobile",
+  "targetPath": "Documents/game_patch.pak"
+}
