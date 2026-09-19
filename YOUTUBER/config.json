@@ -1,9 +1,1 @@
-{
-  "version": "1.0",
-  "patchName": "YOUTUBER Patch",
-  "fileName": "game_patch.pak",
-  "fileNameUpdate": "YOUTUBER Updated Patch v1.0",
-  "downloadURL": "https://example.com/YOUTUBER.pak",
-  "targetBundleID": "com.pubg.imobile",
-  "targetPath": "Documents/game_patch.pak"
-}
+{"version":"1.0","patchName":"YOUTUBER Patch","fileName":"YOUTUBER_game_patch_4.6.0.21556.pak","fileNameUpdate":"YOUTUBER Updated Patch v1.0","downloadURL":"https://raw.githubusercontent.com/OmkarJ96k/VAITNAM/main/YOUTUBER.pak","targetBundleID":"vn.vng.pubgmobile","targetPath":"Documents/ShadowTrackerExtra/Saved/Paks/Kalua_kalu/Kalua_kalu/"}
