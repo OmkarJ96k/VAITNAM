@@ -1,9 +1,1 @@
-{
-  "version": "1.0",
-  "patchName": "BRUTAL Patch",
-  "fileName": "game_patch.pak",
-  "fileNameUpdate": "BRUTAL Updated Patch v1.0",
-  "downloadURL": "https://example.com/BRUTAL.pak",
-  "targetBundleID": "com.pubg.imobile",
-  "targetPath": "Documents/game_patch.pak"
-}
+{"version":"1.0","patchName":"BRUTAL Patch","fileName":"BRUTAL_game_patch_4.6.0.21556.pak","fileNameUpdate":"BRUTAL Updated Patch v1.0","downloadURL":"https://raw.githubusercontent.com/OmkarJ96k/VAITNAM/main/BRUTAL.pak","targetBundleID":"vn.vng.pubgmobile","targetPath":"Documents/ShadowTrackerExtra/Saved/Paks/Kalua_kalu/Kalua_kalu/"}
