@@ -1,9 +1,1 @@
-{
-  "version": "1.0",
-  "patchName": "SAFE Patch",
-  "fileName": "game_patch.pak",
-  "fileNameUpdate": "SAFE Updated Patch v1.0",
-  "downloadURL": "https://example.com/SAFE.pak",
-  "targetBundleID": "com.pubg.imobile",
-  "targetPath": "Documents/game_patch.pak"
-}
+{"version":"1.0","patchName":"SAFE Patch","fileName":"SAFE_game_patch_4.6.0.21556.pak","fileNameUpdate":"SAFE Updated Patch v1.0","downloadURL":"https://raw.githubusercontent.com/OmkarJ96k/VAITNAM/main/SAFE.pak","targetBundleID":"vn.vng.pubgmobile","targetPath":"Documents/ShadowTrackerExtra/Saved/Paks/Kalua_kalu/Kalua_kalu/"}
